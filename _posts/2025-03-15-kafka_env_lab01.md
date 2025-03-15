@@ -7,73 +7,27 @@ tags: [kafka, docker, devops]
 ---
 
 
-## Environment setup 
+## Lab summary
 
-1- Desktop PC running vmware hosting ubuntu  
-2- the host ubntu is exposed to LAN  
-3- I'm connecting from my laptop over LAN using ssh to simulate cloud vmhosted enviornment  
-4- ubuntu has docker installed  
-5- Kafka docker is installed inside ubuntu  
-6- running multiple sessions as producers and consumers.   
+In this lab, we're creating our new consumer and producres using Python supported library; this is to demonstrate our understanding in the enviornment.   
+
+## Lab summary setup
 
 ![Home lab setup](https://gist.github.com/user-attachments/assets/bd1c7328-d291-47d9-b566-8ff29b22e22f)
 
 
 
-## Connectivity verification
-
-![alt](https://gist.github.com/user-attachments/assets/024653ee-c47b-4966-9cef-e04b0c1a2871)
 
 
 
 
 
 
+## Kafka Lab source code
+**Kafka Consumer - using python**
 
-## Kafka Lab Commands
-**Kafka list topics**
+```Python
 
-```docker
-@f95d604b8f1d:/opt/bitnami/kafka/bin$ ./kafka-topics.sh \
-> --bootstrap-server localhost:29092 \
-> --list
-kafka.learning.tweets
-```
-
-**Kafka describe command**
-
-```docker
-f95d604b8f1d:/opt/bitnami/kafka/bin$ ./kafka-topics.sh \
-> --bootstrap-server localhost:29092 \
-> --describe
-**Topic**: kafka.learning.tweets    **TopicId**: 6LfGgitnQFS3AWz-NzkoPg PartitionCount: 1       ReplicationFactor: 1 Configs:
-        Topic: **kafka.learning.tweets**    Partition: 0    **Leader**: 1       **Replicas**: 1     Isr: 1
-        
-```
-
-**Producing data - (producer)** 
-
-```docker
-f95d604b8f1d:/opt/bitnami/kafka/bin$  ./kafka-console-producer.sh \
-            --bootstrap-server localhost:29092 \
-            --topic kafka.learning.tweets
->This is my first tweet
->my second tweet
->third tweet
-```
-
-**Consumer data - (starting consumer from beginning)** 
-
-```docker
-f95d604b8f1d:/opt/bitnami/kafka/bin$ ./kafka-console-consumer.sh \
-> --bootstrap-server localhost:29092 \
-> --topic kafka.learning.tweets \
-> --from-beginning
-
-#output
-This is my first tweet
-my second tweet
-third tweet
 ```
 
 
