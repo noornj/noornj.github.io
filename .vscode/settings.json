@@ -16,6 +16,7 @@
   "[shellscript]": {
     "editor.defaultFormatter": "mkhl.shfmt"
   },
+  
   // Disable vscode built-in stylelint
   "css.validate": false,
   "scss.validate": false,
@@ -27,4 +28,7 @@
   "terminal.integrated.profiles.osx": {
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
   }
+ 
 }
+
+
