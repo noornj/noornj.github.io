@@ -24,8 +24,9 @@ In this lab, we're creating our new consumer and producres using Python supporte
 
 
 
-## Kafka Lab source code
-**Kafka Consumer - using python**
+# Kafka Lab details
+
+**Title: Kafka Consumer - using python**
 
 
 ### 1. Step one: the docker-compose yaml
