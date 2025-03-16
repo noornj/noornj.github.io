@@ -152,6 +152,6 @@ Here's kafka consumer in action
 ![Kafka consumer in action](https://i.imgur.com/DSgMOF1.png)
 
 ## References
-- [Noor Saif - Gist] (https://gist.github.com/noornj/a578401795059922f5eb9f0499e5b64d)
+- [Noor Saif  Gist] (https://gist.github.com/noornj/a578401795059922f5eb9f0499e5b64d)
 - [Linkedin course Apache Kafka Essential Training: Getting Started ] (https://www.linkedin.com/learning-login/share?account=81721418&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fapache-kafka-essential-training-getting-started-22398044%3Ftrk%3Dshare_ent_url%26shareId%3DJVwW9qYeRdOq6Cf%252Fey9vmA%253D%253D)
 - [Certificates](https://www.linkedin.com/learning/certificates/50cedc53c66338402b54117bb33991bc0aa2e24e5b34c0a3c0c6c62f7ef9b390?u=81721418)
