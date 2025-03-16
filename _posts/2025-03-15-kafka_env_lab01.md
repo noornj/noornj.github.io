@@ -11,6 +11,9 @@ tags: [kafka, docker, devops]
 
 In this lab, we're creating our new consumer and producres using Python supported library; this is to demonstrate our understanding in the enviornment.   
 
+> #### Lab objective
+> This is to demonstrate the understanding of the technology along with containerization. 
+
 ## Lab summary setup
 
 ![Home lab setup](https://gist.github.com/user-attachments/assets/bd1c7328-d291-47d9-b566-8ff29b22e22f)
