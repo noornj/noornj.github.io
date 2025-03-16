@@ -9,10 +9,10 @@ tags: [kafka, docker, devops]
 
 ## Lab summary
 
-In this lab, we're creating our new consumer and producres using Python supported library; this is to demonstrate our understanding in the enviornment.   
+In this lab, we're creating our new consumer and producres using Python supported library; this is to demonstrate my understanding in the enviornment.  
 
 > #### Lab objective
-> This is to demonstrate the understanding of the technology along with containerization. 
+> This is to demonstrate the understanding of the technology along with containerization.  
 
 ## Lab summary setup
 
@@ -33,6 +33,10 @@ In this lab, we're creating our new consumer and producres using Python supporte
 
 
 ### 1. Step one: the docker-compose yaml
+
+This is the docker-compose.yml file I use to create the envrionment, this will save me time in the interconnection between my dockers. 
+
+
 ```yaml
 version: '3'
 
