@@ -18,7 +18,8 @@ In this lab, we're creating our new consumer and producres using Python supporte
 
 
 
-
+### Here's the lab setup
+![alt](https://i.imgur.com/GGVpDkZ.png)
 
 
 
@@ -77,6 +78,38 @@ tail -f /dev/null"
 ```Python
 
 ```
+
+### 3. Create a topic for the producre 
+
+This is done inside our kafka_broker cotainer that's created inside our docker-compose.yml file
+
+```/bin/bash
+ ./kafka-topics.sh \
+> --bootstrap-server localhost:9092 \
+> --create \
+> --topic kafka.learning.tweets \
+> --partitions 1 \
+> --replication-factor 1
+
+
+```
+### 4. Produce a message via kafka producer from within the kafka broker
+
+This is for testing prurposes, I've utilzied the kafka broker to start the producer in order to verify connectivity of my kafka docker consumer
+
+```/bin/bash
+./kafka-console-producer.sh \
+            --bootstrap-server localhost:9092 \
+            --topic kafka.learning.tweets
+
+
+```
+
+
+### 5. Test the consumer
+
+Here's kafka consumer in action
+![Kafka consumer in action](https://i.imgur.com/pT2UqRK.png)
 
 
 ## References
