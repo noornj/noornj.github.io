@@ -84,7 +84,7 @@ In order to run the script inside the docker you need:
 1- run ``` source /opt/venv/bin/activate ``` command in order to load the confluent_kafka in the virtual enviornment mode. 
 2- ``` Python3 main.py ``` to run the consumer. 
 
-```Python
+```py
 from confluent_kafka import Consumer, KafkaError
 
 
@@ -113,7 +113,7 @@ consumer.close()
 
 This is done inside our kafka_broker cotainer that's created inside our docker-compose.yml file
 
-```/bin/bash
+```bash
  ./kafka-topics.sh \
 > --bootstrap-server localhost:9092 \
 > --create \
@@ -129,7 +129,7 @@ This is done inside our kafka_broker cotainer that's created inside our docker-c
 
 This is for testing prurposes, I've utilzied the kafka broker to start the producer in order to verify connectivity of my kafka docker consumer
 
-```/bin/bash
+```bash
 ./kafka-console-producer.sh \
             --bootstrap-server localhost:9092 \
             --topic kafka.learning.tweets
@@ -141,10 +141,7 @@ This is for testing prurposes, I've utilzied the kafka broker to start the produ
 ### 5. Test the consumer
 
 Here's kafka consumer in action
-![Kafka consumer in action](https://i.imgur.com/pT2UqRK.png)
-
-testtttttttttt
-![alt](https://photos.app.goo.gl/DjnZtuqHowUjfRmB9)
+![Kafka consumer in action](https://i.imgur.com/DSgMOF1.png)
 
 ## References
 - [Noor Saif - Gist] (https://gist.github.com/noornj/a578401795059922f5eb9f0499e5b64d)
