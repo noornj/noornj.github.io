@@ -75,8 +75,37 @@ tail -f /dev/null"
 ```
 
 ### 2. Step two: Python consumer code 
-```Python
 
+This is a simple python consumer script
+
+In order to run the script inside the docker you need: 
+
+1- run ``` source /opt/venv/bin/activate ``` command in order to load the confluent_kafka in the virtual enviornment mode. 
+2- ``` Python3 main.py ``` to run the consumer. 
+
+```Python
+from confluent_kafka import Consumer, KafkaError
+
+
+conf = {
+    'bootstrap.servers': 'kafka:9092',  # Internal Docker network name
+    'group.id': 'my_group',
+    'auto.offset.reset': 'earliest'
+}
+
+consumer = Consumer(conf)
+consumer.subscribe(['kafka.learning.tweets'])
+
+while True:
+    msg = consumer.poll(1.0)
+    if msg is None:
+        continue
+    if msg.error():
+        print(f"Consumer error: {msg.error()}")
+        continue
+    print(f"Received message: {msg.value().decode('utf-8')}")
+
+consumer.close()
 ```
 
 ### 3. Create a topic for the producre 
@@ -93,6 +122,8 @@ This is done inside our kafka_broker cotainer that's created inside our docker-c
 
 
 ```
+
+
 ### 4. Produce a message via kafka producer from within the kafka broker
 
 This is for testing prurposes, I've utilzied the kafka broker to start the producer in order to verify connectivity of my kafka docker consumer
