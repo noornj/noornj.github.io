@@ -84,8 +84,9 @@ This is a simple python consumer script
 
 In order to run the script inside the docker you need: 
 
-1- run ``` source /opt/venv/bin/activate ``` command in order to load the confluent_kafka in the virtual enviornment mode. 
-2- ``` Python3 main.py ``` to run the consumer. 
+1- run ``` source /opt/venv/bin/activate ``` command in order to load the confluent_kafka in the virtual enviornment mode.  
+
+2- ``` Python3 main.py ``` to run the consumer.  
 
 ```py
 from confluent_kafka import Consumer, KafkaError
