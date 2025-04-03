@@ -117,12 +117,12 @@ log.info "Results saved to: ${filePath}"
 ```
 
 
-**Note: ** I've removed sensitive data and naming from the script as this script is internal and serves its purpose for operational purposes. 
+>*Note: * I've removed sensitive data and naming from the script as this script is internal and serves its purpose for operational purposes. 
 
 
 
-:::tip  
+>## Tip  
 Always test with a sigle test data beforehand.
-:::  
+
 
 ## References
