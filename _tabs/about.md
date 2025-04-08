@@ -19,14 +19,15 @@ In addition to my educational background, I have hands-on experience working wit
 
 ## Professional Experience
 
-I have experience in **manual software testing**, ensuring that applications meet quality standards through rigorous testing. Though I don’t yet have experience with automated testing in an agile environment, I am always eager to learn and grow.
+I have experience in **manual software testing**, ensuring that applications meet quality standards through rigorous testing.
 
 ## Skills
 
 - **Web Technologies:** HTML, CSS, JavaScript, PHP, Node.js, Docker
-- **Infrastructure & Orchestration:** Kubernetes, VMware, Ubuntu
+- **Infrastructure & Orchestration:** Kubernetes, VMware, Ubuntu, and Kafka
 - **Testing:** Groovy, Manual software testing, test case creation, and execution
 - **DevOps Tools:** Docker, Git, CI/CD, Virtualization
+- **IT BSS:** Telecom business support systems integrations, operations and maintenance, and L2 support. 
 
 ## What Drives Me
 
