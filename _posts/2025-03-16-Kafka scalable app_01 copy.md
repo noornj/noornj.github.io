@@ -4,6 +4,7 @@ title: Kafka - Building scalable app_01 lab
 date: 15-03-2025
 categories: [DevOps, Kafka]
 tags: [kafka, docker, devops]
+published: false
 ---
 
 

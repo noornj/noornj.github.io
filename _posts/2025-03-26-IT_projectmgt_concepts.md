@@ -4,6 +4,7 @@ title: IT Project Management - Concepts
 date: 16-03-2025
 categories: [IBM_IT_Project_Mgt, Conceptt]
 tags: [docker, devops]
+published: false
 ---
 
 
