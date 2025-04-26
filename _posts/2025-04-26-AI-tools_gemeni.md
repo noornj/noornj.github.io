@@ -40,8 +40,22 @@ now I did change my mind with more changes - ``` no code  ``` and all I had to d
 
 ![alt](https://i.imgur.com/lcKDvHo.png)
 
+Finally after spending couple of hours; had to modify the initial API and fine tune some inputs and calculations: 
+
+![alt](https://i.imgur.com/KSghmho.png)
+
+### Experience and lessons learned: 
+1- it's quite time consuming to prompt engineer, initially the prototype was available within 15 minutes, but modifying the produced code took more than 3 hours!!! 
+2- I had to modify the code myself and adjust some API with new API providers as the initial API provider had firewall issues. 
+3- It's cool for personal tools and prototype, but knowing the framework to kick-start your idea/app locally would be more efficent, but not faster than gemini3.5 for sure. 
+4- the Gemini 3.5 chat instructions made a lot of mistakes and application crashing although it's powerful enough. 
+5- hype-coding the errors won't fix the issues.
+6- always have a working based and create a branch out in order to further modify tweak the application using prompts. 
+
+
+
 ### Here's the live tool: 
-![alt](https://studio--gold-value-estimator.us-central1.hosted.app/)
+https://studio--gold-value-estimator.us-central1.hosted.app/
 
 
 
