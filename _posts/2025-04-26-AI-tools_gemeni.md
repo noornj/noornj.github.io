@@ -35,6 +35,11 @@ after the prompts and couple of tweaking using Gemini generative AI tweaking, I 
 
 ![alt](https://i.imgur.com/r1BGXmI.png)
 
+
+now I did change my mind with more changes - ``` no code  ``` and all I had to do is rollout the changes and wait!!!
+
+![alt](https://i.imgur.com/lcKDvHo.png)
+
 ### Here's the live tool: 
 ![alt](https://studio--gold-value-estimator.us-central1.hosted.app/)
 
