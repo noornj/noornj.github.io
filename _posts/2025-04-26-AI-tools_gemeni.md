@@ -60,8 +60,9 @@ Finally after spending couple of hours; had to modify the initial API and fine t
 
 
 ### Here's the live tool: 
+>> Check it out: 
 
-/[text](https://studio--gold-value-estimator.us-central1.hosted.app/)
+[Gold Value Estimator](https://studio--gold-value-estimator.us-central1.hosted.app/)
 
 
 
