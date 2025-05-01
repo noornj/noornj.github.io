@@ -7,24 +7,32 @@ title: Certifications
 ---
 
 <div class="timeline">
-
+    <div class="timeline-event">
+        <div class="timeline-date">2025-04-30</div>
+        <div class="timeline-dot"></div>
+        <div class="timeline-content">
+            <img src="../assets/images/duo01.jpg" alt="Duo badge1000 streak">
+            <h3><b>[Badge] - Duolingo 1000 day streak </b> </h3>
+                <p>I would like to highlight my perseverance in learning the German language.</p>
+        </div>
+    </div>
  <div class="timeline-event">
     <div class="timeline-date">2025-04-09</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
       <img src="../assets/images/01.png" alt="Event 2 Image">
-      <h3>Future Literacy Participation</h3>
+      <h3><b>[Participation] Future Literacy Participation</b></h3>
       <p></p>
     </div>
   </div>
 
-  
+
   <div class="timeline-event">
     <div class="timeline-dot"></div>
     <div class="timeline-date">2025-03-25</div>
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/D4E22AQFaQ2F-m5Snjw/feedshare-shrink_1280/B4EZWgZ4AYGwAk-/0/1742152892685?e=1748476800&v=beta&t=dDmcOUbHLs0mCK6k3mXFpbhndXFNJvCGM13B-5hhjZ4" alt="Event 1 Image">
-      <h3>Kakfa Certs</h3>
+      <h3><b>[Certificate] Kakfa Certs </b></h3>
         <p>I completed the "Apache Kafka Essential Training: Getting Started" course by Kumaran Ponnambalam. This dense yet highly informative course lays a solid foundation in Kafka, covering topics like producers, consumers, partitions, consumer groups, and offset management.
 
         But here’s the real takeaway: **No course alone is enough**—pairing it with **hands-on labs** in a home setup makes all the difference!
