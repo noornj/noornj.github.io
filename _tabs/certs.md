@@ -8,58 +8,54 @@ title: Certifications
 
 <div class="timeline">
     <div class="timeline-event">
+        <div class="timeline-date">2024-11-06</div>
+        <div class="timeline-dot"> </div>
+        <div class="timeline-content">
+            <h3><b>Imagine Foundation - Graduation Certification</b></h3>
+            <img src="../assets/images/IMAGINE_Graduation Certificate-Noor-Saif-Qasim.png" alt="Duo badge1000 streak">
+            <p>I recently graduated from Imagine’s Job Booster program — and what a journey it's been. </p>
+            <p>In just a few focused weeks, I practiced showing up as both a technologist and a communicator. I learned how to align my technical skills with the expectations of the European job market, how to tell my story clearly, and how to position myself for the opportunities I want to create. </p>
+            <p>What stood out most wasn’t just the career coaching or the improved LinkedIn profile — it was the people. The support from the Imagine team, the honest feedback from my coach, and the motivation that came from being part of a diverse, driven cohort. </p>
+            <p>I'm honored to have graduated in the top 10% of my group and excited to continue this path as part of the upcoming Imagine Fellowship. </p> 
+            <p>This is a small milestone, but an important one. Here's to building bridges, not borders.</p>
+        </div>
+    </div>
+    <div class="timeline-event">
         <div class="timeline-date">2025-04-30</div>
         <div class="timeline-dot"></div>
         <div class="timeline-content">
-            <img src="../assets/images/duo01.jpg" alt="Duo badge1000 streak">
             <h3><b>[Badge] - Duolingo 1000 day streak </b> </h3>
+            <img src="../assets/images/duo01.jpg" alt="Duo badge1000 streak">
                 <p>I would like to highlight my perseverance in learning the German language.</p>
         </div>
     </div>
- <div class="timeline-event">
-    <div class="timeline-date">2025-04-09</div>
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <img src="../assets/images/01.png" alt="Event 2 Image">
-      <h3><b>[Participation] Future Literacy Participation</b></h3>
-      <p></p>
+    <div class="timeline-event">
+        <div class="timeline-date">2025-04-09</div>
+        <div class="timeline-dot"></div>
+        <div class="timeline-content">
+            <h3><b>[Participation] Future Literacy Participation</b></h3>
+            <img src="../assets/images/01.png" alt="Event 2 Image">
+            <p></p>
+        </div>
     </div>
-  </div>
-
-
-  <div class="timeline-event">
-    <div class="timeline-dot"></div>
+   <div class="timeline-event">
+    <div class="timeline-dot"> </div>
     <div class="timeline-date">2025-03-25</div>
     <div class="timeline-content">
-      <img src="https://media.licdn.com/dms/image/v2/D4E22AQFaQ2F-m5Snjw/feedshare-shrink_1280/B4EZWgZ4AYGwAk-/0/1742152892685?e=1748476800&v=beta&t=dDmcOUbHLs0mCK6k3mXFpbhndXFNJvCGM13B-5hhjZ4" alt="Event 1 Image">
-      <h3><b>[Certificate] Kakfa Certs </b></h3>
-        <p>I completed the "Apache Kafka Essential Training: Getting Started" course by Kumaran Ponnambalam. This dense yet highly informative course lays a solid foundation in Kafka, covering topics like producers, consumers, partitions, consumer groups, and offset management.
-
-        But here’s the real takeaway: **No course alone is enough**—pairing it with **hands-on labs** in a home setup makes all the difference!
-
-        By deploying Kafka in my home lab, tweaking configurations, and testing real-world scenarios, I gained a deeper, practical understanding of:
-        -  **Kafka’s core concepts** – message streams, partitions, and offsets
-        -  **Cluster setup & broker configurations** 
-        - ** Real-time data streaming use cases ** – logging, analytics, and monitoring
-
-        Courses provide knowledge, but **hands-on practice bridges the gap between theory and real-world implementation.**
-
-        If you're diving into Kafka, set up a home lab—it’s a game changer! Start with this informative course. </p>
+        <h3><b>[Certificate] Kakfa Certs</b></h3>
+        <img src="https://media.licdn.com/dms/image/v2/D4E22AQFaQ2F-m5Snjw/feedshare-shrink_1280/B4EZWgZ4AYGwAk-/0/1742152892685?e=1748476800&v=beta&t=dDmcOUbHLs0mCK6k3mXFpbhndXFNJvCGM13B-5hhjZ4" alt="Event 1 Image" />
+        <p>I completed the "Apache Kafka Essential Training: Getting Started" course by Kumaran Ponnambalam. This dense yet highly informative course lays a solid foundation in Kafka, covering topics like producers, consumers, partitions, consumer groups, and offset management.</p>
+        <p>But here’s the real takeaway: <strong>No course alone is enough</strong> — pairing it with <strong>hands-on labs</strong> in a home setup makes all the difference!</p>
+        <p>By deploying Kafka in my home lab, tweaking configurations, and testing real-world scenarios, I gained a deeper, practical understanding of:</p>
+        <ul>
+        <li><strong>Kafka’s core concepts</strong> – message streams, partitions, and offsets</li>
+        <li><strong>Cluster setup & broker configurations</strong></li>
+        <li><strong>Real-time data streaming use cases</strong> – logging, analytics, and monitoring</li>
+        </ul>
+        <p>Courses provide knowledge, but <strong>hands-on practice bridges the gap between theory and real-world implementation.</strong></p>
+        <p>If you're diving into Kafka, set up a home lab — it’s a game changer! Start with this informative course.</p>
     </div>
-  </div>
-
- 
-
-  <!-- <div class="timeline-event">
-    <div class="timeline-date">2024-03-01</div>
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <img src="https://i.imgur.com/Obnojvm.png" alt="Event 2 Image">
-      <h3>Image Showcase</h3>
-      <p>Here's an event with an accompanying image.</p>
     </div>
-  </div> -->
-
   </div>
 
 <style>
