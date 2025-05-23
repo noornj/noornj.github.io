@@ -21,6 +21,16 @@ title: Certifications
         </div>
     </div>
     <div class="timeline-event">
+        <div class="timeline-date">2025-04-11</div>
+        <div class="timeline-dot"> </div>
+        <div class="timeline-content">
+            <h3><b>CBS Swap Project - Asiacell</b></h3>
+            <img src="../assets/images/As-thankfulNote.png" alt="As-thankfulletter">
+            <p>After having participated in the Huawei CBS project as a vendor for 7 months; I moved to operator and had a positive participation in the CBS swap project based on the 8 years of experience in the Telecom industry.</p>
+            <p>A thankful message from management to the active participation in the successful CBS swap project.</p>
+        </div>
+    </div>
+    <div class="timeline-event">
         <div class="timeline-date">2025-04-30</div>
         <div class="timeline-dot"></div>
         <div class="timeline-content">
