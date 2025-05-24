@@ -21,6 +21,46 @@ title: Certifications
         </div>
     </div>
     <div class="timeline-event">
+        <div class="timeline-date">{ 2025-05-24 }</div>
+        <div class="timeline-dot"> </div>
+        <div class="timeline-content">
+            <h3><b> IBM Introduction to Project Management</b></h3>
+            <img src="../assets/images/Noor Saif Qasim - IBM Intro project mgt.png" alt="Noor Saif Qasim - IBM Intro project mgt">
+            <p><strong>📌 This course covered:</strong></p>
+  <ul>
+    <li>Core concepts of project management and its impact</li>
+    <li>Roles, skills, and responsibilities of project managers</li>
+    <li>PM methodologies and emerging trends</li>
+    <li>Career pathways across various industries</li>
+  </ul>
+
+  <p>
+    <strong>💡 As part of the Future Skills Academy initiative</strong>, 
+    this learning journey has equipped me with 
+    <em>foundational project management skills</em>—critical for navigating today's complex IT environments.
+  </p>
+
+  <ul>
+    <li><strong>📈 Completed:</strong> May 24, 2025</li>
+    <li><strong>📊 Grade:</strong> 80%</li>
+    <li><strong>🎓 Credential:</strong> Verified by Coursera and IBM</li>
+    <strong><a href="https://www.coursera.org/account/accomplishments/verify/JJFRA3HGZDVZ" target="_blank">Verify</a></strong>
+  </ul>
+
+  <p>
+    This is just the beginning—looking forward to applying these skills in real-world IT projects 
+    and continuing my learning path in tech leadership. 🚀
+  </p>
+
+  <p>
+    <strong>Hashtags:</strong><br>
+    #ProjectManagement #FutureSkills #UNDP #Knowledge4All 
+    #IBM #Coursera #ProfessionalGrowth #LifelongLearning 
+    #DigitalTransformation #ITLeadership #PMCertificate
+  </p>
+        </div>
+    </div>
+    <div class="timeline-event">
         <div class="timeline-date">{ 2025-04-11 }</div>
         <div class="timeline-dot"> </div>
         <div class="timeline-content">
