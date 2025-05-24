@@ -8,7 +8,7 @@ title: Certifications
 
 <div class="timeline">
     <div class="timeline-event">
-        <div class="timeline-date">2024-11-06</div>
+        <div class="timeline-date"> { 2024-11-06 }</div>
         <div class="timeline-dot"> </div>
         <div class="timeline-content">
             <h3><b>Imagine Foundation - Graduation Certification</b></h3>
@@ -21,7 +21,7 @@ title: Certifications
         </div>
     </div>
     <div class="timeline-event">
-        <div class="timeline-date">2025-04-11</div>
+        <div class="timeline-date">{ 2025-04-11 }</div>
         <div class="timeline-dot"> </div>
         <div class="timeline-content">
             <h3><b>CBS Swap Project - Asiacell</b></h3>
@@ -31,7 +31,16 @@ title: Certifications
         </div>
     </div>
     <div class="timeline-event">
-        <div class="timeline-date">2025-04-30</div>
+        <div class="timeline-date">{ 2025-04-11 }</div>
+        <div class="timeline-dot"> </div>
+        <div class="timeline-content">
+            <h3><b>Huawei CBS Operational Training</b></h3>
+            <img src="../assets/images/Huaweicbs_cert.png" alt="Huaweicbs_cert">
+            <p>The training was hands-on expereience on the Huawei containerized CBS solution from business configuration to product release and testing. We got introduced to various CBS modules and the general functionality of the system.</p>
+        </div>
+    </div>
+    <div class="timeline-event">
+        <div class="timeline-date">{ 2025-04-30 }</div>
         <div class="timeline-dot"></div>
         <div class="timeline-content">
             <h3><b>[Badge] - Duolingo 1000 day streak </b> </h3>
@@ -40,7 +49,7 @@ title: Certifications
         </div>
     </div>
     <div class="timeline-event">
-        <div class="timeline-date">2025-04-09</div>
+        <div class="timeline-date">{ 2025-04-09 }</div>
         <div class="timeline-dot"></div>
         <div class="timeline-content">
             <h3><b>[Participation] Future Literacy Participation</b></h3>
@@ -50,7 +59,7 @@ title: Certifications
     </div>
    <div class="timeline-event">
     <div class="timeline-dot"> </div>
-    <div class="timeline-date">2025-03-25</div>
+    <div class="timeline-date">{ 2025-03-25 }</div>
     <div class="timeline-content">
         <h3><b>[Certificate] Kakfa Certs</b></h3>
         <img src="https://media.licdn.com/dms/image/v2/D4E22AQFaQ2F-m5Snjw/feedshare-shrink_1280/B4EZWgZ4AYGwAk-/0/1742152892685?e=1748476800&v=beta&t=dDmcOUbHLs0mCK6k3mXFpbhndXFNJvCGM13B-5hhjZ4" alt="Event 1 Image" />
@@ -97,12 +106,12 @@ title: Certifications
 
 .timeline-date {
   position: absolute;
-  left: -13rem;
-  width: 12rem;
+  left: 28rem;
+  /* width: 12rem; */
   text-align: right;
   padding: 10px;
   color: var(--text-color-secondary, #777); /* Fallback */
-  font-size: 0.9rem;
+  /* font-size: 0.9rem; */
 }
 
 .timeline-dot {
