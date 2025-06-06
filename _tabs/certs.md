@@ -84,7 +84,7 @@ title: Certifications
         <div class="timeline-dot"></div>
         <div class="timeline-content">
             <h3><b>[Badge] - Duolingo 1000 day streak </b> </h3>
-            <img src="../assets/images/duo01.jpg" alt="Duo badge1000 streak">
+            <img src="../assets/images/duo01.png" alt="Duo badge1000 streak">
                 <p>I would like to highlight my perseverance in learning the German language.</p>
         </div>
     </div>
@@ -102,7 +102,7 @@ title: Certifications
     <div class="timeline-date">{ 2025-03-25 }</div>
     <div class="timeline-content">
         <h3><b>[Certificate] Kakfa Certs</b></h3>
-        <img src="../assets/images/duo01.jpeg" alt="Event 1 Image" />
+        <img src="../assets/images/Kafka.png" alt="Event 1 Image" />
         <p>I completed the "Apache Kafka Essential Training: Getting Started" course by Kumaran Ponnambalam. This dense yet highly informative course lays a solid foundation in Kafka, covering topics like producers, consumers, partitions, consumer groups, and offset management.</p>
         <p>But here’s the real takeaway: <strong>No course alone is enough</strong> — pairing it with <strong>hands-on labs</strong> in a home setup makes all the difference!</p>
         <p>By deploying Kafka in my home lab, tweaking configurations, and testing real-world scenarios, I gained a deeper, practical understanding of:</p>
