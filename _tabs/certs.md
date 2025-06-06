@@ -102,7 +102,7 @@ title: Certifications
     <div class="timeline-date">{ 2025-03-25 }</div>
     <div class="timeline-content">
         <h3><b>[Certificate] Kakfa Certs</b></h3>
-        <img src="https://media.licdn.com/dms/image/v2/D4E22AQFaQ2F-m5Snjw/feedshare-shrink_1280/B4EZWgZ4AYGwAk-/0/1742152892685?e=1748476800&v=beta&t=dDmcOUbHLs0mCK6k3mXFpbhndXFNJvCGM13B-5hhjZ4" alt="Event 1 Image" />
+        <img src="../assets/images/duo01.jpeg" alt="Event 1 Image" />
         <p>I completed the "Apache Kafka Essential Training: Getting Started" course by Kumaran Ponnambalam. This dense yet highly informative course lays a solid foundation in Kafka, covering topics like producers, consumers, partitions, consumer groups, and offset management.</p>
         <p>But here’s the real takeaway: <strong>No course alone is enough</strong> — pairing it with <strong>hands-on labs</strong> in a home setup makes all the difference!</p>
         <p>By deploying Kafka in my home lab, tweaking configurations, and testing real-world scenarios, I gained a deeper, practical understanding of:</p>
