@@ -8,6 +8,15 @@ title: Certifications
 
 <div class="timeline">
     <div class="timeline-event">
+        <div class="timeline-date"> { 2026-02-08 }</div>
+        <div class="timeline-dot"> </div>
+        <div class="timeline-content">
+            <h3><b>Imagine Foundation - Recommendation Letter </b></h3>
+            <img src="../assets/images/Recommendation letter - Noor.jpg" alt="Imagine FOundation">
+            <p>I recently gained my up-to-date imagine recommendation letter from Imagine’s management— and what a journey it's been. </p>
+        </div>
+    </div>
+    <!-- <div class="timeline-event">
         <div class="timeline-date"> { 2024-11-06 }</div>
         <div class="timeline-dot"> </div>
         <div class="timeline-content">
@@ -19,7 +28,7 @@ title: Certifications
             <p>I'm honored to have graduated in the top 10% of my group and excited to continue this path as part of the upcoming Imagine Fellowship. </p> 
             <p>This is a small milestone, but an important one. Here's to building bridges, not borders.</p>
         </div>
-    </div>
+    </div> -->
     <div class="timeline-event">
         <div class="timeline-date"> { 2026-02-14 }</div>
         <div class="timeline-dot"> </div>
