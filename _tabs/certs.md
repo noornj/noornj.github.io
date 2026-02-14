@@ -12,12 +12,23 @@ title: Certifications
         <div class="timeline-dot"> </div>
         <div class="timeline-content">
             <h3><b>Imagine Foundation - Graduation Certification</b></h3>
-            <img src="../assets/images/IMAGINE_Graduation Certificate-Noor-Saif-Qasim.png" alt="Duo badge1000 streak">
+            <img src="../assets/images/IMAGINE_Graduation Certificate-Noor-Saif-Qasim.png" alt="Imagine FOundation">
             <p>I recently graduated from Imagine’s Job Booster program — and what a journey it's been. </p>
             <p>In just a few focused weeks, I practiced showing up as both a technologist and a communicator. I learned how to align my technical skills with the expectations of the European job market, how to tell my story clearly, and how to position myself for the opportunities I want to create. </p>
             <p>What stood out most wasn’t just the career coaching or the improved LinkedIn profile — it was the people. The support from the Imagine team, the honest feedback from my coach, and the motivation that came from being part of a diverse, driven cohort. </p>
             <p>I'm honored to have graduated in the top 10% of my group and excited to continue this path as part of the upcoming Imagine Fellowship. </p> 
             <p>This is a small milestone, but an important one. Here's to building bridges, not borders.</p>
+        </div>
+    </div>
+    <div class="timeline-event">
+        <div class="timeline-date"> { 2026-02-14 }</div>
+        <div class="timeline-dot"> </div>
+        <div class="timeline-content">
+            <h3><b>IBM - ntroduction to Agile Development and Scrum</b></h3>
+            <img src="../assets/images/IBM_cert_agile.png" alt="IBM Cert">
+            <p>Happy to share that I’ve completed the Introduction to Agile Development and Scrum certificate from IBM. </p>
+            <p>This program focused on the practical application of Agile values and Scrum mechanics—specifically managing backlogs, running sprints, and using Kanban to drive continuous delivery. Looking forward to bringing these frameworks into my future workflows. </p>
+            <p>#Agile #Scrum #IBM #ProfessionalDevelopment #ProjectManagement #FutureSkills</p>
         </div>
     </div>
     <div class="timeline-event">

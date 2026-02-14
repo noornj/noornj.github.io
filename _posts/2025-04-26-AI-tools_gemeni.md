@@ -2,7 +2,7 @@
 layout: post
 title: AI - Gemini - Cloudflare APP
 date: 26-04-2025
-categories: [AI, Tools]
+categories: [AI, Lab]
 tags: [Gemeni, AI, GenerativeAI]
 
 ---
