@@ -4,6 +4,7 @@ title: SoapUI - Groovy script
 date: 03-04-2025
 categories: [DevOps, Tools, Scripts]
 tags: [soapUI, groovy, scripting]
+published: false
 ---
 
 
